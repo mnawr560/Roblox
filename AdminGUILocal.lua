@@ -1,4 +1,4 @@
-
+https://raw.githubusercontent.com/mnawr560/Roblox/main/AdminGUILocal.lua
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
 local mouse = player:GetMouse()
